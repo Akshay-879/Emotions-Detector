@@ -1,15 +1,12 @@
 # Real-time Emotion Detection from Live Video using DeepFace
 
-## Table of Contents:
-
-### Introduction
-Steps of the Code
-Step 1: Importing Required Libraries
-Step 2: Initializing Face Cascade Classifier
-Step 3: Initializing Video Capture
-Step 4: Real-time Emotion Detection
-Step 5: Displaying Results
-Step 6: Exiting the Program
+### Table of Contents:
+1. Importing Required Libraries
+2. Initializing Face Cascade Classifier
+3. Initializing Video Capture
+4. Real-time Emotion Detection
+5. Displaying Results
+6. Exiting the Program
 
 ### Business Understanding:
 The purpose of this project is to develop a real-time emotion detection system from live video using DeepFace. The system identifies facial expressions in the video stream and classifies them into different emotions. This technology can have various applications, such as improving human-computer interaction, enhancing user experiences in applications, and analyzing emotional responses in various scenarios.
